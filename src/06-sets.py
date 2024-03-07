@@ -15,3 +15,5 @@ print(my_set)
 
 my_set.add("prince")
 print(my_set)
+
+print(type(my_set))
